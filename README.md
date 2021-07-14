@@ -16,4 +16,8 @@ An represetation of the result of this program is:
 ![Resumo](https://user-images.githubusercontent.com/62217530/125612286-92f2f7ce-838f-45cf-8110-de9d4c2a516e.png)
 
 Using the above code, the error by considering the point with maximum pressure as I instead of W was studied and represented in the next image:
+
+![Picture1](https://user-images.githubusercontent.com/62217530/125613574-7b4e0644-bcad-45e8-af10-1938e184df8a.png)
+
+
 Some of the representations were done in matlab. 
