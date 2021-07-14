@@ -5,8 +5,8 @@ Codes in python used to study correction on spur gears and it's impact on hertzi
 ## Code and executable for calculation of correction
 
 ## Code and executable for calculation and representation of hertzian contact pressure along the gearing line
-
-executable in:
+In the .py file it's easy to execute the code, but in order to allow users who can not use python an executable file was compiled. 
+The executable is given in  as it is too large to upload in github.
 
 An represetation of the result of this program is:
 
