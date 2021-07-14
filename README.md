@@ -12,7 +12,7 @@ An represetation of the result of this program is:
 
 ![Resumo](https://user-images.githubusercontent.com/62217530/125612286-92f2f7ce-838f-45cf-8110-de9d4c2a516e.png)
 
-Files:
+Files: 2 - Hertz_contact_calc_and_repr
 -executable capable of automatically calculate tooth correction, hertzian contact pressure and visual representation of the last one. 
 
 Some of the representations were done in matlab. 
