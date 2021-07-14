@@ -8,7 +8,7 @@ Codes in python used to study correction on spur gears and it's impact on hertzi
 In the .py file it's easy to execute the code, but in order to allow users who can not use python an executable file was compiled. 
 The executable is given in  as it is too large to upload in github.
 
-Files: 2 - Hertz_contact_calc_and_repr
+Files: 2 - **Hertz_contact_calc_and_repr**
 -executable capable of automatically calculate tooth correction, hertzian contact pressure and visual representation of the last one. 
 
 An represetation of the result of this program is:
@@ -19,5 +19,4 @@ Using the above code, the error by considering the point with maximum pressure a
 
 ![Picture1](https://user-images.githubusercontent.com/62217530/125613574-7b4e0644-bcad-45e8-af10-1938e184df8a.png)
 
-
-Some of the representations were done in matlab. 
+The above graphical representation was done with matlab, the code used is **3dplot.m** .
