@@ -2,9 +2,7 @@
 
 Codes in python used to study correction on spur gears and it's impact on hertzian contact pressure. 
 
-## Code and executable for calculation of correction
-
-## Code and executable for calculation and representation of hertzian contact pressure along the gearing line
+## Codes and executables for calculation of tooth correction/ calculation and representation of hertzian contact pressure along the gearing line
 In the .py files it's easy to execute the code, but in order to allow users who can not use python an executable file was compiled. 
 
 
